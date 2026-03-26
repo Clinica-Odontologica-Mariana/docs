@@ -2,3 +2,8 @@ site_name: My Docs
 site_url: https://clinica-odontologica-mariana.github.io/docs/
 theme:
   name: material
+exclude_docs: |
+  README.md
+nav:
+  - Início: index.md
+  - Documentação: sobre.md
