@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# 🦷 Sistema de Gestão para Clínica Odontológica
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bem-vindo à documentação oficial do projeto. Este sistema foi concebido para modernizar a gestão de uma clínica odontológicas, integrando desde o controle operacional até ferramentas de inteligência de dados.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 📌 Visão Geral do Projeto
+O objetivo principal é oferecer uma plataforma centralizada que otimize o fluxo de atendimento, garanta a segurança dos dados dos pacientes (conforme a **LGPD**) e forneça dashboards estratégicos para a tomada de decisão.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🛠️ Principais Funcionalidades
+O sistema está estruturado em torno de quatro pilares fundamentais:
+1.  **Gestão de Pacientes:** Cadastro completo, prontuários digitais com upload de imagens e histórico.
+2.  **Agendamento Inteligente:** Controle de horários, bloqueios por indisponibilidade e integração com **Google Agenda**.
+3.  **Administrativo & Financeiro:** Cadastro de serviços, custos de procedimentos e gestão de equipamentos.
+4.  **Business Intelligence:** Dashboards com indicadores operacionais para gestão de múltiplas unidades.
