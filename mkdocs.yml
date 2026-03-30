@@ -7,4 +7,5 @@ theme:
 
 nav:
   - Início: index.md
-  - Documentação: sobre.md
+  - Requisitos: requisitos.md
+  - US: us.md

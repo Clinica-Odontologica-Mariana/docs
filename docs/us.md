@@ -9,7 +9,7 @@ Este documento traduz os requisitos técnicos em necessidades dos usuários, foc
 | :--- | :--- | :--- |
 | **US01** | **Como** recepcionista, **quero** cadastrar novos pacientes **para que** eu possa iniciar o fluxo de atendimento. | Campos obrigatórios: Nome, CPF, Telefone. Validar duplicidade de CPF. |
 | **US02** | **Como** dentista, **quero** criar e atualizar prontuários **para que** eu tenha o histórico clínico completo de cada paciente. | O prontuário deve estar vinculado ao ID do paciente. Permitir edição de campos de texto livre. |
-| **US03** | **Como** dentista, **quero** fazer upload de imagens no prontuário **para que** eu possa visualizar exames de imagem (Raio-X) durante a consulta. | Suporte para formatos PNG/JPG. Armazenamento seguro conforme RNF11. |
+| **US03** | **Como** dentista, **quero** fazer upload de imagens no prontuário **para que** eu possa visualizar exames de imagem (Raio-X) durante a consulta. | Suporte para formatos PNG/JPG. |
 
 ---
 
@@ -29,8 +29,8 @@ Este documento traduz os requisitos técnicos em necessidades dos usuários, foc
 
 | ID | User Story | Critérios de Aceitação |
 | :--- | :--- | :--- |
-| **US07** | **Como** gestor, **quero** cadastrar tratamentos e seus respectivos custos **para que** o sistema calcule a rentabilidade dos procedimentos. | Incluir campos de custo fixo e variável (materiais). |
-| **US08** | **Como** gestor, **quero** manter um inventário de equipamentos **para que** eu possa controlar o patrimônio da clínica. | Registro de nome, marca e data de aquisição. |
+| **US07** | **Como** denstista, **quero** cadastrar tratamentos e seus respectivos custos **para que** o sistema calcule a rentabilidade dos procedimentos. | Incluir campos de custo fixo e variável (materiais). |
+| **US08** | **Como** denstista, **quero** manter um inventário de equipamentos **para que** eu possa controlar o patrimônio da clínica. | Registro de nome, marca e data de aquisição. |
 
 ---
 
@@ -39,9 +39,9 @@ Este documento traduz os requisitos técnicos em necessidades dos usuários, foc
 
 | ID | User Story | Critérios de Aceitação |
 | :--- | :--- | :--- |
-| **US09** | **Como** gestor de rede, **quero** visualizar um dashboard com indicadores operacionais **para que** eu acompanhe o desempenho financeiro e de atendimentos. | Gráficos de fácil leitura. Atualização rápida (RNF02). |
+| **US09** | **Como** administrador, **quero** visualizar um dashboard com indicadores operacionais **para que** eu acompanhe o desempenho financeiro e de atendimentos. | Gráficos de fácil leitura. Atualização rápida (RNF02). |
 | **US10** | **Como** administrador, **quero** gerenciar múltiplas clínicas no mesmo sistema **para que** eu centralize a gestão da minha franquia. | Filtro por unidade/local de trabalho nas buscas. |
-| **US11** | **Como** marketing, **quero** publicar posts no blog do sistema **para que** eu possa atrair novos pacientes via conteúdo educativo. | Editor de texto rico (WYSIWYG) e upload de capa do post. |
+| **US11** | **Como** administrador, **quero** publicar posts no blog do sistema **para que** eu possa atrair novos pacientes via conteúdo educativo. | Editor de texto rico e upload de capa do post. |
 
 ---
 
