@@ -1,4 +1,4 @@
-# 📄 Documento de Requisitos — Sistema de Gestão para Clínica Odontológica
+# Documento de Requisitos — Sistema de Gestão para Clínica Odontológica
 
 ## 1. Introdução
 
@@ -60,5 +60,5 @@ Este documento descreve os requisitos do sistema de gestão para clínica odonto
 
 ## 4. Observações
 
-* Os requisitos podem evoluir conforme validação com stakeholders.
+Os requisitos podem evoluir conforme validação com stakeholders.
 

@@ -1,9 +1,30 @@
 site_name: Clínica Odontológica Mariana
-site_url: https://clinica-odontologica-mariana.github.io/docs
+site_url: https://clinica-odontologica-mariana.github.io/docs/
+site_description: Documentação do projeto Clínica Odontológica Mariana
 
 theme:
   name: material
+  logo: assets/logo.png
+  palette:
+    - scheme: default
+      primary: brown
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: brown
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-outline
+        name: Switch to light mode
   language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
 
 nav:
   - Início: index.md
