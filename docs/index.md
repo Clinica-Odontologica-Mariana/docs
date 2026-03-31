@@ -14,3 +14,12 @@ O sistema está estruturado em torno de quatro pilares fundamentais:
 2.  **Agendamento Inteligente:** Controle de horários, bloqueios por indisponibilidade e integração com **Google Agenda**.
 3.  **Administrativo & Financeiro:** Cadastro de serviços, custos de procedimentos e gestão de equipamentos.
 4.  **Business Intelligence:** Dashboards com indicadores operacionais para gestão de múltiplas unidades.
+
+
+## Membros da Equipe
+
+| [![](https://avatars.githubusercontent.com/alanagabriele)](https://github.com/alanagabriele) | [![](https://avatars.githubusercontent.com/eduardoferre)](https://github.com/eduardoferre) | [![](https://avatars.githubusercontent.com/fsousac)](https://github.com/fsousac) | [![](https://avatars.githubusercontent.com/gustaallves)](https://github.com/gustaallves) | [![](https://avatars.githubusercontent.com/jevprado)](https://github.com/jevprado) | [![](https://avatars.githubusercontent.com/yaskisoba)](https://github.com/yaskisoba) |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
+| [Alana Gabriele](https://github.com/alanagabriele) | [Eduardo Ferreira](https://github.com/eduardoferre) | [Felipe de Sousa](https://github.com/fsousac) | [Gustavo Alves de Souza](https://github.com/gustaallves) | [José Eduardo](https://github.com/jevprado) | [Yasmim Rosa](https://github.com/yaskisoba) |
+
+<br>
