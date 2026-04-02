@@ -66,9 +66,9 @@ Este documento traduz os requisitos técnicos em necessidades dos usuários, foc
 
 ## Épico 6: Segurança, Acesso e Plataforma
 
-*Relacionado a: RNF01, RNF03, RNF04, RNF07*
+*Relacionado a: RNF01, RNF07*
 
 | ID       | User Story                                                                                                                                 | Critérios de Aceitação                                                           |
 | :------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
 | **US16** | **Como** usuário do sistema, **quero** acessar a plataforma em diferentes dispositivos **para que** eu tenha mobilidade no uso do sistema. | Interface responsiva (desktop, tablet e mobile).                                 |
-| **US17** | **Como** administrador, **quero** gerenciar perfis de acesso **para que** cada usuário tenha permissões adequadas.                         | Controle por perfil (recepcionista, dentista, admin). Restrição por módulo/ação. |
+|
