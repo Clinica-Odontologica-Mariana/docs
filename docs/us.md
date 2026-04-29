@@ -54,13 +54,12 @@ Este documento traduz os requisitos técnicos em necessidades dos usuários, foc
 
 ## Épico 5: Gestão Estratégica e Marketing
 
-*Relacionado a: RF20, RF21, RF22, RF23, RF26*
+*Relacionado a: RF20, RF26*
 
 | ID       | User Story                                                                                                                    | Critérios de Aceitação                                                              |
 | :------- | :---------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
 | **US13** | **Como** administrador, **quero** visualizar um dashboard com indicadores **para que** eu acompanhe o desempenho da clínica.  | Exibir métricas operacionais. Atualização dinâmica. Visualização clara (gráficos).  |
-| **US14** | **Como** responsável pelo marketing, **quero** gerenciar posts do blog **para que** eu publique conteúdos e atraia pacientes. | Criar, editar e excluir posts. Suporte a rascunho/publicação. Editor de texto rico. |
-| **US15** | **Como** administrador, **quero** gerenciar links de redes sociais **para que** os pacientes acessem nossos canais digitais.  | Cadastro de URLs válidas. Permitir edição e exclusão.                               |
+| **US14** | **Como** administrador, **quero** gerenciar links de redes sociais **para que** os pacientes acessem nossos canais digitais.  | Cadastro de URLs válidas. Permitir edição e exclusão.                               |
 
 
 
@@ -70,5 +69,5 @@ Este documento traduz os requisitos técnicos em necessidades dos usuários, foc
 
 | ID       | User Story                                                                                                                                 | Critérios de Aceitação                                                           |
 | :------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| **US16** | **Como** usuário do sistema, **quero** acessar a plataforma em diferentes dispositivos **para que** eu tenha mobilidade no uso do sistema. | Interface responsiva (desktop, tablet e mobile).                                 |
+| **US15** | **Como** usuário do sistema, **quero** acessar a plataforma em diferentes dispositivos **para que** eu tenha mobilidade no uso do sistema. | Interface responsiva (desktop, tablet e mobile).                                 |
 |

@@ -30,3 +30,6 @@ nav:
   - Início: index.md
   - Requisitos de Software: requisitos.md
   - US: us.md
+  - Protótipo Alta Fidelidade:
+    - Desktop: prototipo_desktop.md
+    - Mobile: prototipo_mobile.md

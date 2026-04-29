@@ -30,13 +30,10 @@ Este documento descreve os requisitos do sistema de gestão para clínica odonto
 | RF18 | Editar equipamento               | O sistema deve permitir editar equipamentos cadastrados.                 |
 | RF19 | Remover equipamento              | O sistema deve permitir excluir equipamentos.                            |
 | RF20 | Dashboard                        | O sistema deve apresentar um painel com indicadores operacionais.        |
-| RF21 | Criar post (blog)                | O sistema deve permitir criar conteúdos para blog.                       |
-| RF22 | Editar post (blog)               | O sistema deve permitir editar conteúdos do blog.                        |
-| RF23 | Remover post (blog)              | O sistema deve permitir excluir conteúdos do blog.                       |
-| RF24 | Cadastrar clínicas               | O sistema deve permitir o cadastro de múltiplas clínicas/unidades.       |
-| RF25 | Cadastrar local de trabalho      | O sistema deve permitir cadastrar diferentes locais de atendimento.      |
-| RF26 | Cadastrar redes sociais          | O sistema deve permitir registrar links de redes sociais.                |
-| RF27 | Integração com Google Agenda     | O sistema deve integrar com Google Agenda para sincronização de eventos. |
+| RF21 | Cadastrar clínicas               | O sistema deve permitir o cadastro de múltiplas clínicas/unidades.       |
+| RF22 | Cadastrar local de trabalho      | O sistema deve permitir cadastrar diferentes locais de atendimento.      |
+| RF23 | Cadastrar redes sociais          | O sistema deve permitir registrar links de redes sociais.                |
+| RF24 | Integração com Google Agenda     | O sistema deve integrar com Google Agenda para sincronização de eventos. |
 
 ---
 
