@@ -31,5 +31,6 @@ nav:
   - Requisitos de Software: requisitos.md
   - US: us.md
   - Protótipo Alta Fidelidade:
-    - Desktop: prototipo_desktop.md
-    - Mobile: prototipo_mobile.md
+      - Desktop: prototipo_desktop.md
+      - Mobile: prototipo_mobile.md
+  - Diagrama do Banco de Dados: database.md
